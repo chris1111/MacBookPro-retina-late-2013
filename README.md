@@ -33,3 +33,7 @@ NOTE : You have to boot multiple time on macOS Installer.
 
 <img width="1280" alt="Desktop" src="https://user-images.githubusercontent.com/6248794/128947515-28b2dd99-45b7-4074-99df-83a1b554abcf.png">
 
+- HWMonitor
+<img width="298" alt="HWM" src="https://user-images.githubusercontent.com/6248794/128948734-2c35fcd0-ca37-4526-92fd-d2bb8ab1c333.png">
+
+
