@@ -29,3 +29,7 @@ NOTE : You have to boot multiple time on macOS Installer.
 ### Done! Enjoy.
 ### After everything is finished, you can remove the -v in the config.plist to have the apple at boot.
 
+![Boot](https://user-images.githubusercontent.com/6248794/128947501-f810607b-d9bc-48f2-98fa-093f4474ff34.png)
+
+<img width="1280" alt="Desktop" src="https://user-images.githubusercontent.com/6248794/128947515-28b2dd99-45b7-4074-99df-83a1b554abcf.png">
+
