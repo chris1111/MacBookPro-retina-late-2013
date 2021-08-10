@@ -23,8 +23,8 @@ NOTE : You have to boot multiple time on macOS Installer.
 
 
 ### Reboot again Option EFI USB install Media, select your Disk to complete installation
-You have to boot twice on the disk to complet
-Mount the EFI Partition of the SSD then put the EFI Folder then unplug USB Install media
+- You have to boot twice on the disk to complet
+### Mount the EFI Partition of the SSD then put the EFI Folder then unplug USB Install media
 
 ### Done! Enjoy.
 ### After everything is finished, you can remove the -v in the config.plist to have the apple at boot.
