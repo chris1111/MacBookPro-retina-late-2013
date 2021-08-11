@@ -7,9 +7,7 @@ Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-la
 - Probably work on other Mac?
 - Credit: [Acidanthera](https://github.com/acidanthera/OpenCorePkg)
 
-### EFI Folder
-![EFI Contents](https://user-images.githubusercontent.com/6248794/129013341-1eac822b-05f2-4542-938a-1b873cfff19c.png)
-- You can delete the Apple folder and use your own
+![EFI Contents](https://user-images.githubusercontent.com/6248794/129014443-525e2366-a19f-46cf-b38c-ec15e79c8543.png)
 
 ### Create install Media of Monterey put the EFI folder on EFI Partition of USB installer then boot from option select EFI USB install Media on the OpenCore menue Icons, select ClearNvram and Reboot the system ➣ TAB
 ![ClearNvram](https://user-images.githubusercontent.com/6248794/128945677-4bf77808-147e-44c5-9a5f-d194b5ccf2a3.png)
