@@ -2,7 +2,7 @@
 
 Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip)
 
-### How to install macOS Monterey Beta 4 on a MacBook Pro retina late 2013
+### How to install macOS Monterey on a MacBook Pro retina late 2013
 - Without patcher, without any kexts files. Genuine macOS booting with OpenCore SIP activate
 - Probably work on other Mac?
 - Credit: [Acidanthera](https://github.com/acidanthera/OpenCorePkg)
