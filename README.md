@@ -41,4 +41,7 @@ NOTE : You have to boot multiple time on macOS Installer.
 - HWMonitor
 <img width="298" alt="HWM" src="https://user-images.githubusercontent.com/6248794/128948734-2c35fcd0-ca37-4526-92fd-d2bb8ab1c333.png">
 
+### If you want make your own EFI OC I strongly advise you to compile OpenCore from source here ☞ [OpenCorePKG](https://github.com/acidanthera/OpenCorePkg)
+and use the output files in OpenCorePkg ➤ / Binaries ➤ / OpenCore-0.7.3-RELEASE.zip unzip the file and everything is there : DOC , EFI , Utilities
+![Screen Shot 2021-09-03 at 7 44 10 AM](https://user-images.githubusercontent.com/6248794/132001954-96b46471-8170-4c44-a08a-94989786325a.png) Read the DOC You don't need nothing else.
 
