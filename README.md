@@ -9,7 +9,7 @@ Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-la
 - Probably work on other Mac?
 - Credit: [Acidanthera](https://github.com/acidanthera/OpenCorePkg)
 
-### If you have a mac with are you using any GPU other than the Intel Iris Pro Graphics ➢ I recommand to using [OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/)
+### If you have a mac with are you using any GPU other than the Intel Iris Pro Graphics I recommand to using [OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 
 ![EFI Contents](https://user-images.githubusercontent.com/6248794/129014443-525e2366-a19f-46cf-b38c-ec15e79c8543.png)
 
