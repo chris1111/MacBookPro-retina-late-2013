@@ -1,11 +1,16 @@
 # MacBookPro-retina-late-2013
 
+
+
 Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip)
 
 ### How to install macOS Monterey on a MacBook Pro retina late 2013
 - Without patcher, without any kexts files. Genuine macOS booting with OpenCore SIP activate
 - Probably work on other Mac?
 - Credit: [Acidanthera](https://github.com/acidanthera/OpenCorePkg)
+
+### If you have a mac with are you using any GPU other than the Intel Iris Pro Graphics 
+- I recommand to using [OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 
 ![EFI Contents](https://user-images.githubusercontent.com/6248794/129014443-525e2366-a19f-46cf-b38c-ec15e79c8543.png)
 
