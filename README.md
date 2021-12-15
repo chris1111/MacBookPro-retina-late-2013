@@ -2,7 +2,7 @@
 
 
 
-Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip)
+Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip) OC 0.7.7
 
 ### How to install macOS Monterey on a MacBook Pro retina late 2013
 - Without patcher, without any kexts files. Genuine macOS booting with OpenCore SIP activate
