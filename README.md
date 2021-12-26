@@ -16,13 +16,12 @@ Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-la
 - Looking for other OpenCore boot theme ➤ [My-Simple-OC-Themes](https://github.com/chris1111/My-Simple-OC-Themes)
 
 ### Create install Media of Monterey put the EFI folder on EFI Partition of USB installer then boot from option select EFI USB install Media on the OpenCore menue Icons, select ClearNvram and Reboot the system ➣ TAB
-![ClearNvram](https://user-images.githubusercontent.com/6248794/128945677-4bf77808-147e-44c5-9a5f-d194b5ccf2a3.png)
+![ClearNvram](https://user-images.githubusercontent.com/6248794/147395807-89d57034-ca2f-4704-b0a7-290bdd4338a4.png)
 ### Reboot
-![Reboot](https://user-images.githubusercontent.com/6248794/128945981-ebba5c99-3bc2-4855-8f2b-8867083c0e08.png)
+![Reboot](https://user-images.githubusercontent.com/6248794/147395810-e0e7f999-88a3-45df-a0f3-2b33e5529a14.png)
 
 ### Reboot again Option EFI USB install Media select Install macOS Monterey
-![Install macOS](https://user-images.githubusercontent.com/6248794/128945681-11c6034d-6d40-4349-a47a-9133cf8b7bf8.png)
-
+![Install macOS](https://user-images.githubusercontent.com/6248794/147395808-28c6b01d-961a-4491-928f-bfa088d7fa9b.png)
 
 ### Formate the Disk then Install macOS
 
@@ -38,7 +37,7 @@ NOTE : You have to boot multiple time on macOS Installer.
 ### Done! Enjoy.
 ### After everything is finished, you can remove the -v in the config.plist to have the apple at boot.
 
-![Boot](https://user-images.githubusercontent.com/6248794/128947501-f810607b-d9bc-48f2-98fa-093f4474ff34.png)
+![Reboot MacHD](https://user-images.githubusercontent.com/6248794/147395809-f742f619-45a9-45e0-9866-b6bfc2407802.png)
 
 <img width="1280" alt="Desktop" src="https://user-images.githubusercontent.com/6248794/128947515-28b2dd99-45b7-4074-99df-83a1b554abcf.png">
 
