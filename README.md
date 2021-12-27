@@ -15,7 +15,12 @@ Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-la
 
 - Looking for other OpenCore boot theme ➤ [My-Simple-OC-Themes](https://github.com/chris1111/My-Simple-OC-Themes)
 
-### Create install Media of Monterey put the EFI folder on EFI Partition of USB installer then boot from option select EFI USB install Media on the OpenCore menue Icons, select ClearNvram and Reboot the system ➣ TAB
+### Create install Media of Monterey put the EFI folder on EFI Partition of USB installer. To correctly use the new OC MinimalmacOS12 default theme, before booting on the create Install Media USB key, delete .VolumeIcon.icns on the Install macOS Monterey volumes
+- Open terminal type:
+`rm -rf /Volumes/Install\ macOS\ Monterey/.VolumeIcon.icns`
+
+### Boot from option select EFI USB install Media on the OpenCore menue Icons, select ClearNvram and Reboot the system ➣ TAB
+
 ![ClearNvram](https://user-images.githubusercontent.com/6248794/147395807-89d57034-ca2f-4704-b0a7-290bdd4338a4.png)
 ### Reboot
 ![Reboot](https://user-images.githubusercontent.com/6248794/147395810-e0e7f999-88a3-45df-a0f3-2b33e5529a14.png)
