@@ -2,7 +2,7 @@
 
 
 
-Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip) OC 0.7.7
+Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip) OC 0.7.8
 
 ### How to install macOS Monterey on a MacBook Pro retina late 2013
 - Without patcher, without any kexts files. Genuine macOS booting with OpenCore SIP activate
@@ -15,9 +15,7 @@ Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-la
 
 - Looking for other OpenCore boot theme ➤ [My-Simple-OC-Themes](https://github.com/chris1111/My-Simple-OC-Themes)
 
-### Create install Media of Monterey put the EFI folder on EFI Partition of USB installer. To correctly use the new OC MinimalmacOS12 default theme, before booting on the create Install Media USB key, delete .VolumeIcon.icns on the Install macOS Monterey volumes
-- Open terminal type:
-`rm -rf /Volumes/Install\ macOS\ Monterey/.VolumeIcon.icns`
+### Create install Media of Monterey put the EFI folder on EFI Partition of USB installer.
 
 ### Boot from option select EFI USB install Media on the OpenCore menue Icons, select ClearNvram and Reboot the system ➣ TAB
 
