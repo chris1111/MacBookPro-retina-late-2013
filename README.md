@@ -8,6 +8,8 @@ Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-la
 - Without patcher, without any kexts files. Genuine macOS booting with OpenCore SIP activate
 - Probably work on other Mac?
 - Credit: [Acidanthera](https://github.com/acidanthera/OpenCorePkg)
+- For support open Issue: [New Issue](https://github.com/chris1111/MacBookPro-retina-late-2013/issues)
+
 
 ### If you have a mac with are you using any GPU other than the Intel Iris Pro Graphics I recommand to using [OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 
