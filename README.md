@@ -7,7 +7,7 @@
 Download ➤ [EFI Ventura 13](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Ventura%2013.zip) OC 0.8.3
 ---------------------------------------------------------------
 
-Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Monterey%2012.zip) OC 0.7.8
+Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/blob/main/EFI%20Monterey-OC-1.0.8.zip) OC 1.0.8
 
 
 ### How to install macOS Monterey on a MacBook Pro retina late 2013
