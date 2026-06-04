@@ -1,14 +1,13 @@
 # MacBookPro-retina-late-2013
-### Update 21 April 2023 Update EFI Ventura 13-OCLP OCLP-0.6.5 OpenCore-0.9.2
+### Update 03 Jun 2026 Update EFI Monterey 12 OC REL-1.0.8-2026-05-30
 
 
-![09235741](https://user-images.githubusercontent.com/6248794/178126444-11e74130-d169-44a2-8ddf-aec089210496.png)
+<img width="2560" height="1600" alt="04011000" src="https://github.com/user-attachments/assets/7a349b28-b636-43cd-a038-54e9f70530e1" />
+
+
+Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/refs/heads/main/EFI%20Monterey-OC-1.0.8.zip) REL-1.0.8-2026-05-30
 
 Download ➤ [EFI Ventura 13](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/main/EFI%20Ventura%2013.zip) OC 0.8.3
----------------------------------------------------------------
-
-Download ➤ [EFI Monterey 12](https://github.com/chris1111/MacBookPro-retina-late-2013/raw/refs/heads/main/EFI%20Monterey-OC-1.0.8.zip) OC 1.0.8
-
 
 ### How to install macOS Monterey on a MacBook Pro retina late 2013
 - Without patcher, without any kexts files. Genuine macOS booting with OpenCore SIP activate
